@@ -11,9 +11,6 @@ A consumer will reach their fitness goals quicker when they track their workout 
 # WORKING APP DEMO
 ![demo](./demo.gif)
 
-# SCREENSHOTS
-![Image]()
+# DASHBOARD
+![Image](https://github.com/jpah2020/FitnessTracker/blob/main/Screenshot%20(47).png)
 
-![Image]()
-
-![Image]()
